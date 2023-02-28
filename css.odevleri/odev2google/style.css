@@ -1,0 +1,66 @@
+/* Google resmi ortalamak */
+.center {
+    text-align: center;
+}
+
+/* Arama motoru özellikler */
+.b {
+    text-align: center;
+    background-color: #EEEEEE;
+    width: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+/* Box Özellikleri */
+
+
+.all-box {
+    display: flex;
+    margin-top: 5px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-size: 15px;
+    
+    
+}
+
+
+.first-box {
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 50%;
+    margin-right: 3px ;
+    padding: 1em ;
+    
+
+}
+
+
+.second-box {
+    background-color: #70CCC2;
+    text-align: center;
+    width: 30%;
+    margin-right: 3px ;
+    padding: 1em ;
+
+}
+
+
+
+.third-box {
+    background-color: #62B3AA;
+    text-align: center;
+    width: 60% ;
+    margin-left: 3px;
+  
+}
+
+
+.copyright {
+    text-align: center;
+}
+

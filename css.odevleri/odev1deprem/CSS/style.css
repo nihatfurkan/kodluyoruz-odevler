@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    color: red;
+    font-size: 40px;
+}
+
+h2 {
+    color: blue;
+    font-size: 25px;
+}
+
+h3 {
+    color: Fuchsia;
+    font-size: 15px;
+}
+
+body {
+    background-color: red;
+}
+
+body {
+    text-align: center;
+  }
+
+li{
+    list-style-type: none ;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;  
+    align-items: center;
+    background-color: bisque;
+    height: 4rem;
+}
+.list{ 
+    display: flex;
+    gap: 1rem;
+}

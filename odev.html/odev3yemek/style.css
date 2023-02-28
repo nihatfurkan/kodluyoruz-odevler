@@ -1,0 +1,20 @@
+h1 {
+  color: brown;
+  text-align: left;
+}
+body {
+  background-color: lightblue;
+}
+
+
+.kırmızı{
+  color: red;
+}
+
+.bordo{
+  color: blueviolet;
+}
+.container{
+  display: flex;
+}
+
